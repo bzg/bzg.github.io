@@ -1,4 +1,2 @@
-bzg.github.io
-=============
+Nothing here for now.
 
-bzg devel page
